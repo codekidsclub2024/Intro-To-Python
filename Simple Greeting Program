@@ -1,0 +1,7 @@
+# Simple Greeting Program
+
+# Get the user's name as input
+user_name = input("Enter your name: ")
+
+# Print a personalized greeting
+print(f"Hello, {user_name}! Welcome to the world of Python programming.")
